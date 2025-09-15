@@ -3,7 +3,6 @@
 <img src="./output/pic/cover.jpg" width="300" style="float: left; margin-right: 15px;" />
 
 [![Model](https://img.shields.io/badge/Model-EfficientNetB7-green.svg)](https://pytorch.org/hub/nvidia_deeplearningexamples_efficientnet/)
-
 [![DOI](https://img.shields.io/badge/License-MIT-yellow.svg)](https://www.mit.edu/)
 
 ---
